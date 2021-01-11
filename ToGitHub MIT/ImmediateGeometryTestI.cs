@@ -1,3 +1,5 @@
+// You can find the names of the people who helped at the bottom, all of them are on GitHub.
+
 using Godot;
 using System.Collections.Generic;
 using System;
@@ -176,7 +178,7 @@ public class ImmediateGeometryTestI : ImmediateGeometry
         );
     }
 
-    // From Boris
+    // From BorisTheBrave
     public Vector3[] CornerTable = new Vector3[]
     {
         new Vector3(0, 0, 0),
@@ -189,7 +191,7 @@ public class ImmediateGeometryTestI : ImmediateGeometry
         new Vector3(0, 1, 1),
     };
 
-    // From Boris, the original EdgeIndexes
+    // From BorisTheBrave, the original EdgeIndexes
     // public int[,] EdgeIndexes = new int[,]
     // {
     //     {0, 1},
