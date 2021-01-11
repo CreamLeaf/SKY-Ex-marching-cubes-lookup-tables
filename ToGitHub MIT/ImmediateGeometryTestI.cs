@@ -208,7 +208,7 @@ public class ImmediateGeometryTestI : ImmediateGeometry
     //     {3, 7},
     // };
 
-    // Modified Vertsion
+    // Modified Version
     public int[,] EdgeIndexes = new int[,]
     {
         {0, 1},
